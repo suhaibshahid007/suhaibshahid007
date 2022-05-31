@@ -4,7 +4,7 @@ Hi 👋 My name is Muhammad Suhaib
 Full Stack Software Developer
 -----------------------------
 
-Full Stack Ruby on Rails, React JS, AWS
+Full Stack Software Developer having 4 years of experience in Ruby, Ruby on Rails, Restful APIs, React js, Vue js, Next/Nuxt, Redux, Stimulus JS, Django, Javascript, Jquery, Slim/Haml, Heroku, AWS(EC2, S3, SES, SNS), Sidekiq/Redis, Git/Github, Jira/Asana/Pivotal-tracker/Clickup and other cutting edge technologies.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [suhaib.shahid007@gmail.com](mailto:suhaib.shahid007@gmail.com)
